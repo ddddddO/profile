@@ -34,3 +34,6 @@
 - ストレングス・インサイトガイド(wip)
 
 - [マインドマップmemo](https://drive.mindmup.com/map/1_utmwW4TE7W58fvt8aCbQSPM134vCKts)
+
+## 履歴書・職務経歴書など
+- [xxx](https://github.com/ddddddO/private)
