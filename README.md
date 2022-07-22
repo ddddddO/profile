@@ -18,6 +18,7 @@
 - etc: UML, [DAG](https://github.com/ddddddO/gdag#readme)
 
 ## 資格
+- AWS Certified Cloud Practitioner 2022/7
 - OSS-DB Silver 2021/4
 - 応用情報技術者試験 2018/6
 - 基本情報技術者試験 2016/11
