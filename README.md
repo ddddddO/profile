@@ -19,10 +19,10 @@
 
 ## 資格
 - AWS Certified Cloud Practitioner 2022/7
-![](doc/aws-certified-cloud-practitioner.png)
+  - ![](doc/aws-certified-cloud-practitioner.png)
 
 - OSS-DB Silver 2021/4
-![](doc/OSS-NIN-S.webp)
+  - ![](doc/OSS-NIN-S.webp)
 
 - 応用情報技術者試験 2018/6
 - 基本情報技術者試験 2016/11
