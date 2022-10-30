@@ -18,11 +18,13 @@
 - etc: UML, [DAG](https://github.com/ddddddO/gdag#readme)
 
 ## 資格
+- フォークリフト運転技能講習 2022/8
 - AWS Certified Cloud Practitioner 2022/7
 - OSS-DB Silver 2021/4
 - 応用情報技術者試験 2018/6
 - 基本情報技術者試験 2016/11
 - ITパスポート 2016/1
+- 第一種普通自動車免許 2014/3
 
 ## 学歴
 - 公立大学法人 高崎経済大学 地域政策学部 地域づくり学科
@@ -38,3 +40,11 @@
 
 ## 履歴書・職務経歴書など
 - [xxx](https://github.com/ddddddO/private)
+
+## Links
+- [Zenn](https://zenn.dev/ddddddo)
+- [Qiita](https://qiita.com/dddddO60664252)
+- [Medium](https://medium.com/@allowing_whip_guineapig_430)
+- [reddit](https://www.reddit.com/user/ddddddO811)
+- [Speaker Deck](https://speakerdeck.com/ddddddo)
+- [connpass](https://connpass.com/user/ddddddO/)
