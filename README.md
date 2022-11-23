@@ -42,8 +42,12 @@
 - [xxx](https://github.com/ddddddO/private)
 
 ## Links
+- [GitHub](https://github.com/ddddddO)
+- [Twitter](https://twitter.com/ddddddOpppppp)
+- [Mastodon](https://mstdn.jp/@ddddddO)
+- [Scrapbox](https://scrapbox.io/ddddddo/)
 - [Zenn](https://zenn.dev/ddddddo)
-- [Qiita](https://qiita.com/dddddO60664252)
+- [Qiita](https://qiita.com/ddddddO)
 - [Medium](https://medium.com/@allowing_whip_guineapig_430)
 - [reddit](https://www.reddit.com/user/ddddddO811)
 - [Speaker Deck](https://speakerdeck.com/ddddddo)
