@@ -1,6 +1,9 @@
 # 越智大貴
 
 ## 職歴
+- 株式会社オープンロジ
+  - 2022/9 ~ 現在
+
 - BHI株式会社
   - 2018/8 ~ 2022/5
   - api/batch/tool設計・開発・運用保守(GCP, SQL, Go, Ruby, Python3)
@@ -19,6 +22,8 @@
 
 ## 資格
 - フォークリフト運転技能講習 2022/8
+  - 最大荷重1t以上のフォークリフトに乗れる
+  - [メモスレ](https://twitter.com/ddddddOpppppp/status/1558013860799746049?s=20&t=FBz3uYvAB94pZk7UYpN__A)
 - AWS Certified Cloud Practitioner 2022/7
 - OSS-DB Silver 2021/4
 - 応用情報技術者試験 2018/6
