@@ -21,6 +21,8 @@
 - etc: UML, [DAG](https://github.com/ddddddO/gdag#readme)
 
 ## 資格
+- Cisco Certified Network Associate (200-301) 2024/4
+  - [Score report](./CCNA_ScoreReport_202404.pdf)
 - フォークリフト運転技能講習 2022/8
   - 最大荷重1t以上のフォークリフトに乗れる
   - [メモスレ](https://twitter.com/ddddddOpppppp/status/1558013860799746049?s=20&t=FBz3uYvAB94pZk7UYpN__A)
