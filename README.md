@@ -14,10 +14,10 @@
   - 業務Webシステム開発(Java, JavaScript)
 
 ## 経験
-- Languages: Go, Ruby, Python3, SQL
-  - Framework: chi, Gin, Sinatra
-- Database: PostgreSQL
-- Middleware/Infrastructure: GCP, Kubernetes, CircleCI, H2o, Ansible, Terraform
+- Language: Go, Ruby, Python3, PHP, JavaScript/TypeScript, SQL
+  - Framework: chi, Gin, Sinatra, Laravel, React
+- Database: PostgreSQL, MySQL
+- Middleware/Infrastructure: GCP, Kubernetes, CircleCI, H2o, Ansible, Terraform, AWS
 - etc: UML, [DAG](https://github.com/ddddddO/gdag#readme)
 
 ## 資格
