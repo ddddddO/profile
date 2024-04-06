@@ -24,7 +24,7 @@
 - Cisco Certified Network Associate (200-301) 2024/4
   - [Score report](./doc/CCNA_ScoreReport_202404.pdf)
   - [Covered in examination](./doc/CCNA_200-301_covered_in_examination.pdf)
-  - [メモ](https://scrapbox.io/ddddddo/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%B3%BB%E8%AA%AD%E3%81%BF%E7%89%A9)
+  - [メモ有り](https://scrapbox.io/ddddddo/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%B3%BB%E8%AA%AD%E3%81%BF%E7%89%A9)
 - フォークリフト運転技能講習 2022/8
   - 最大荷重1t以上のフォークリフトに乗れる
   - [メモスレ](https://twitter.com/ddddddOpppppp/status/1558013860799746049?s=20&t=FBz3uYvAB94pZk7UYpN__A)
