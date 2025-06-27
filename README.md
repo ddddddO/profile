@@ -59,3 +59,8 @@
 - [Medium](https://medium.com/@allowing_whip_guineapig_430)
 - [reddit](https://www.reddit.com/user/ddddddO811)
 - [connpass](https://connpass.com/user/ddddddO/)
+- [BOOTH](https://accounts.booth.pm/library)
+  - login: Google
+- [技術書店](https://techbookfest.org/mypage/bookshelf)
+  - login: X
+
