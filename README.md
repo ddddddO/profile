@@ -55,6 +55,7 @@
 - [Zenn](https://zenn.dev/ddddddo)
 - [Qiita](https://qiita.com/ddddddO)
 - [Hatena](https://profile.hatena.ne.jp/ddddddO/)
+  - [HTTPリクエストが自動で再送されている...？](https://openlogi.hatenablog.com/entry/2026/02/03/141103)
 - [Speaker Deck](https://speakerdeck.com/ddddddo)
 - [Medium](https://medium.com/@allowing_whip_guineapig_430)
 - [reddit](https://www.reddit.com/user/ddddddO811)
